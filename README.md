@@ -33,6 +33,8 @@ src/
 ├── App.js            # Main app wrapper
 └── index.js          # Entry point
 
+---
+
 🧑‍💻 Tech Stack
 - React
 - Tailwind CSS
@@ -40,7 +42,7 @@ src/
 - Modular Component Architecture
 - CSS Utility Classes
 
-  ---
+---
 
 🖼️ Key Components
 
