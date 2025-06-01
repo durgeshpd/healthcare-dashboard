@@ -2,6 +2,8 @@
 
 A responsive and modern healthcare dashboard built with React and Tailwind CSS, designed to visualize key health data, appointments, and anatomy highlights in an intuitive and beautiful interface.
 
+---
+
 🚀 Features
 ✅ Health Overview with human anatomy highlights
 
@@ -16,6 +18,8 @@ A responsive and modern healthcare dashboard built with React and Tailwind CSS, 
 🧭 Sidebar Navigation with Lucide icons
 
 👤 Header UI with user info and notifications
+
+---
 
 📂 Project Structure
 
@@ -36,16 +40,21 @@ src/
 - Modular Component Architecture
 - CSS Utility Classes
 
+  ---
+
 🖼️ Key Components
 
-Component           Description
-AnatomySection	    Highlights parts of a human body with statuses
-HealthStatusCards	Renders lung/teeth/bone status as cards
-CalendarView	    Interactive calendar with appointment info
-ActivityFeed	    Bar chart showing daily activity
-UpcomingSchedule	Next appointments listed by day
-Header	            App title, search bar, user avatar, notifications
-Sidebar	            Navigation menu with icons
+| Component           | Description                                       |
+|---------------------|---------------------------------------------------|
+| AnatomySection	    | Highlights parts of a human body with statuses    |
+| HealthStatusCards	  | Renders lung/teeth/bone status as cards           |
+| CalendarView	      | Interactive calendar with appointment info        |
+| ActivityFeed	      | Bar chart showing daily activity                  |
+| UpcomingSchedule	  | Next appointments listed by day                   | 
+| Header	            | App title, search bar, user avatar, notifications |
+| Sidebar	            | Navigation menu with icons                        |
+
+---
 
 🛠️ Setup Instructions
 ```bash
@@ -68,8 +77,10 @@ View in Browser
 Visit http://localhost:3000 to explore the dashboard.
 
 ```
+---
 
 📁 Sample Data Files
+
 anatomyData.js – Body part positions and health status
 
 calendarData.js – Days, appointments, and calendar highlights
@@ -80,14 +91,7 @@ scheduleData.js – Upcoming appointments for specific days
 
 navigation.js – Sidebar items with icons
 
-🔮 Future Enhancements
-🔐 Authentication & user roles
-
-🧠 AI-powered diagnosis suggestions
-
-📈 Real-time activity analytics
-
-🌍 Multi-language support
+---
 
 🙌 Acknowledgements
 Icons by Lucide
