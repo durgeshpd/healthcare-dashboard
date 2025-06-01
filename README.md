@@ -50,20 +50,20 @@ Sidebar	            Navigation menu with icons
 🛠️ Setup Instructions
 Clone the Repository
 
-git clone https://github.com/your-username/healthcare-dashboard.git
-cd healthcare-dashboard
+~ git clone https://github.com/your-username/healthcare-dashboard.git
+~ cd healthcare-dashboard
 
 Install Dependencies
 
-npm install
+~ npm install
 # or
-yarn install
+~ yarn install
 
 Start Development Server
 
-npm run dev
+~ npm run dev
 # or
-yarn dev
+~ yarn dev
 
 View in Browser
 
