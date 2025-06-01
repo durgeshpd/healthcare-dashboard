@@ -48,26 +48,26 @@ Header	            App title, search bar, user avatar, notifications
 Sidebar	            Navigation menu with icons
 
 🛠️ Setup Instructions
-Clone the Repository
+```bash
 
+Clone the Repository
 ~ git clone https://github.com/your-username/healthcare-dashboard.git
 ~ cd healthcare-dashboard
 
 Install Dependencies
-
 ~ npm install
 # or
 ~ yarn install
 
 Start Development Server
-
 ~ npm run dev
 # or
 ~ yarn dev
 
 View in Browser
-
 Visit http://localhost:3000 to explore the dashboard.
+
+```
 
 📁 Sample Data Files
 anatomyData.js – Body part positions and health status
