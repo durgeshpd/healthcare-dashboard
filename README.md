@@ -4,6 +4,14 @@ A responsive and modern healthcare dashboard built with React and Tailwind CSS, 
 
 ---
 
+## 🔗 Live Project
+
+➡️ [Visit healthcare-dashboard](https://healthcare-dashboard-olive.vercel.app/)
+
+This will take you directly to the healthcare-dashboard.
+
+---
+
 🚀 Features
 ✅ Health Overview with human anatomy highlights
 
