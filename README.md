@@ -112,5 +112,8 @@ UI Framework: Tailwind CSS
 
 Design inspiration from modern health-tech dashboards
 
+---
+
 📬 Contact
+
 Feel free to open an issue or submit a pull request if you have ideas or improvements.
