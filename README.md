@@ -72,18 +72,14 @@ src/
 ```bash
 
 Clone the Repository
-~ git clone https://github.com/your-username/healthcare-dashboard.git
-~ cd healthcare-dashboard
+git clone https://github.com/your-username/healthcare-dashboard.git
+cd healthcare-dashboard
 
 Install Dependencies
-~ npm install
-# or
-~ yarn install
+npm install
 
 Start Development Server
-~ npm run dev
-# or
-~ yarn dev
+npm run dev
 
 View in Browser
 Visit http://localhost:3000 to explore the dashboard.
@@ -111,3 +107,6 @@ Icons by Lucide
 UI Framework: Tailwind CSS
 
 Design inspiration from modern health-tech dashboards
+
+📬 Contact
+Feel free to open an issue or submit a pull request if you have ideas or improvements.
