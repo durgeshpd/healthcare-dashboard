@@ -31,6 +31,7 @@ This will take you directly to the healthcare-dashboard.
 
 📂 Project Structure
 
+```css
 src/
 ├── assets/           # Images (e.g., avatar, anatomy)
 ├── components/       # UI components like Sidebar, Header, Dashboard widgets
@@ -40,6 +41,7 @@ src/
 ├── data/             # Static data for cards, calendar, etc.
 ├── App.js            # Main app wrapper
 └── index.js          # Entry point
+```
 
 ---
 
