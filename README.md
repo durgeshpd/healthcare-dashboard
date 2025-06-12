@@ -72,19 +72,23 @@ src/
 ```bash
 
 Clone the Repository
+
 git clone https://github.com/your-username/healthcare-dashboard.git
 cd healthcare-dashboard
 
 Install Dependencies
+
 npm install
 
 Start Development Server
+
 npm run dev
 
+```
 View in Browser
+
 Visit http://localhost:3000 to explore the dashboard.
 
-```
 ---
 
 📁 Sample Data Files
