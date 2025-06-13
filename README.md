@@ -73,7 +73,7 @@ src/
 
 Clone the Repository
 
-git clone https://github.com/your-username/healthcare-dashboard.git
+git clone https://github.com/durgeshpd/healthcare-dashboard.git
 cd healthcare-dashboard
 
 Install Dependencies
